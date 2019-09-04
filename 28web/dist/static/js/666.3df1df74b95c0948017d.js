@@ -1,0 +1,1 @@
+webpackJsonp([666],{"5oY6":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l=n("VLGl"),r=n("VU/8")(null,l.a,null,null,null);t.default=r.exports},VLGl:function(e,t,n){"use strict";var l={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticStyle:{height:"100%"}},[t("router-view")],1)},staticRenderFns:[]};t.a=l}});

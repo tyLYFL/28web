@@ -1,0 +1,1 @@
+webpackJsonp([665],{"5Qol":function(e,t,n){"use strict";var l={render:function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticStyle:{height:"100%"}},[t("router-view")],1)},staticRenderFns:[]};t.a=l},YKxB:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l=n("5Qol"),r=n("VU/8")(null,l.a,null,null,null);t.default=r.exports}});
